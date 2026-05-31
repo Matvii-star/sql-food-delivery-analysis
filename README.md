@@ -132,17 +132,13 @@ Investigated:
 
 ---
 
-## Key Takeaways
+## Key Findings
 
-This project demonstrates how SQL can be used to answer real business questions and generate actionable insights from operational data.
-
-The analysis covers multiple areas of a food delivery business, including:
-
-- Revenue generation
-- Operational efficiency
-- Customer payment behavior
-- Promotion effectiveness
-- Financial losses through refunds
+- Card payments were the most frequently used payment method.
+- Several restaurants generated significantly higher revenue than the dataset average.
+- Delivery times varied considerably across restaurants.
+- Promotional campaigns showed different impacts on average order value.
+- Refunds represented a measurable financial loss and were concentrated among a limited number of restaurants.
 
 ---
 
